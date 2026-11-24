@@ -1,0 +1,5 @@
+unaligned.apk
+aligned.apk
+build/
+*.keystore
+.DS_Store
